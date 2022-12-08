@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pet inventory</string>
+    <string name="actuallanguage">English</string>
+    <string name="cim">Dogs</string>
+    <string name="kutyanev">Dog name</string>
+    <string name="fajta">Dog breed</string>
+    <string name="chipszam">Chip number</string>
+    <string name="tulaj">Owner</string>
+    <string name="mentes">Save to Database</string>
+    <string name="betoltes">Load from Database</string>
+    <string name="adatbazisba_mentve">Succesful save into database!</string>
+    <string name="sikeres_fajlba_mentes">Succesful save into file!</string>
+    <string name="fajlbaMentes">Save to file</string>
+    <string name="server_betoltes_gomb">Load from server</string>
+    <string name="pet_nem_talalhato">Not found on server</string>
+    <string name="kotelezo">Required to fill</string>
+    <string name="error_uzenet">Wrong data!</string>
+    <string name="error_no_chipszam">Chip number not filled</string>
+    <string name="server_betoltes_chipszam_gomb">From server by chipszam</string>
+    <string name="server_mentes_gomb">Save to server</string>
+    <string name="mentes_serverre">Succesfully created on server</string>
+    <string name="sikertelen_mentes_serverre">Creating on server not succeded!</string>
+    <string name="bad_character">Bad character!</string>
+    <string name="foto">Photo</string>
+</resources>

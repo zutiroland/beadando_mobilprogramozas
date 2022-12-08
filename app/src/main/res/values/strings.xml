@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kisallat nyilvantarto</string>
+    <string name="actuallanguage">Magyar</string>
+    <string name="cim">Kutyák</string>
+    <string name="kutyanev">Kutya neve</string>
+    <string name="fajta">Kutya fajta</string>
+    <string name="chipszam">Chipszám</string>
+    <string name="tulaj">Tulajdonos</string>
+    <string name="mentes">Adatbázisba ment</string>
+    <string name="betoltes">Betöltés adatbázisból</string>
+    <string name="fajlbaMentes">Mentés fájlba</string>
+    <string name="adatbazisba_mentve">Sikeres mentés adatbázisba!</string>
+    <string name="sikeres_fajlba_mentes">Sikeres mentés fájlba!</string>
+    <string name="server_betoltes_gomb">Betöltés szerverről</string>
+    <string name="server_mentes_gomb">Szerverre mentés</string>
+    <string name="pet_nem_talalhato">Nem található a szerveren</string>
+    <string name="kotelezo">Kötelező kitölteni!</string>
+    <string name="error_uzenet">Hibás vagy hiányzó adat!</string>
+    <string name="error_no_chipszam">Chipszám nincs kitöltve</string>
+    <string name="server_betoltes_chipszam_gomb">Szerverről chipszámmal</string>
+    <string name="mentes_serverre">Sikeresen létrehozva a szerveren</string>
+    <string name="sikertelen_mentes_serverre">Nem sikerült a szerveren létrehozni!</string>
+    <string name="bad_character">Rossz karakter!</string>
+    <string name="foto">Fotó</string>
+</resources>

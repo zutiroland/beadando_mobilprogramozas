@@ -1,0 +1,34 @@
+{
+  "pets": [
+    {
+      "kutyanev": "Quattro",
+      "fajta": "keverek",
+      "chipszam": "0000001234",
+      "tulaj": "Roland"
+    },
+    {
+      "kutyanev": "Oda",
+      "fajta": "cocker",
+      "chipszam": "0000001235",
+      "tulaj": "Roland"
+    },
+    {
+      "kutyanev": "Django",
+      "fajta": "cavalier",
+      "chipszam": "0000001236",
+      "tulaj": "Roland"
+    },
+    {
+      "kutyanev": "Dallas",
+      "fajta": "cavalier",
+      "chipszam": "0000001237",
+      "tulaj": "Aniko"
+    },
+    {
+      "kutyanev": "Angel",
+      "fajta": "cavalier",
+      "chipszam": "0000001238",
+      "tulaj": "Aniko"
+    }
+  ]
+}
